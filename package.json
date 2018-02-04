@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shashwatanand/shashwatanand.github.io/issues"
   },
-  "homepage": "https://github.com/shashwatanand/shashwatanand.github.io#readme"
+  "homepage": "https://github.com/shashwatanand/shashwatanand.github.io#readme",
+  "dependencies": {
+    "startbootstrap-clean-blog": "^4.0.0"
+  }
 }
