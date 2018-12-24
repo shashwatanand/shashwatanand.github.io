@@ -17,6 +17,14 @@ ul{
   overflow: hidden;
 }
 
+.dark{
+  padding: 15px;
+  background: #35424a;
+  color: #ffffff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 /* Header */
 header {
   background: #35424a;
@@ -61,7 +69,35 @@ header a:hover{
   font-weight: bold;
 }
 
-/*#showcase{
+#showcase{
   min-height: 600px;
-  background: url('../img/shashwat.jpg') no-repeat 0 -200px;
-}*/
+  background: url('../img/shashwat.jpg') no-repeat center center;
+  color: #ffffff;
+  text-align: center;
+}
+
+#showcase h2{
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+aside#sidebar{
+  float: right;
+  width: 30%;
+  margin-top: 10px;
+}
+
+article#main-col{
+  float: left;
+  width: 65%;
+}
+
+footer{
+  padding: 20px;
+  text-align: center;
+  margin-top: 20px;
+  color: #ffffff;
+  background-color: #e8491d;
+}
+
