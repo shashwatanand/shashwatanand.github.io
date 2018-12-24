@@ -93,6 +93,15 @@ article#main-col{
   width: 65%;
 }
 
+/*blogs*/
+ul#blogs li{
+  list-style: none;
+  padding: 20px;
+  background: #e6e6e6;
+  border: #cccccc solid 1px;
+  margin-bottom: 5px;
+}
+
 footer{
   padding: 20px;
   text-align: center;
